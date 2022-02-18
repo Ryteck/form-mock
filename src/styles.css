@@ -45,3 +45,31 @@ button:hover {
   background-color: hsl(252 42.2% 26.2%);
   border-color: hsl(250 51.8% 51.2%);
 }
+
+button.btn-chamados {
+  background-color: hsl(192 79.3% 12.8%);
+  border: solid 2px hsl(192 92.6% 20.1%);
+
+  color: hsl(186 100% 42.2%);
+}
+
+button.btn-chamados:hover {
+  background-color: hsl(192 82.5% 14.6%);
+  border-color: hsl(192 100% 24.5%);
+}
+
+span.novo {
+  color: rgb(48, 164, 108);
+}
+
+span.andam {
+  color: rgb(0, 177, 204);
+}
+
+span.transf {
+  color: rgb(233, 61, 130);
+}
+
+span.aguar {
+  color: rgb(229, 77, 46);
+}
